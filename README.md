@@ -7,11 +7,11 @@
 
 <!-- SOBRE -->
 
-<h4>🧠 Com foco em Cyber Security meus conhecimentos estão voltados para essa área, porém meus olhos também brilham quando o assunto é Machine Learning!</h4>
+#### 🧠 Com foco em Cyber Security meus conhecimentos estão voltados para essa área, porém meus olhos também brilham quando o assunto é Machine Learning!
 
-<h4>🚩 Na busca por bugs, pelo site Hackerone! Prefiro o Pentester, na busca por vulnerabilidades!</h4>
+#### 🚩 Na busca por bugs, pelo site Hackerone! Prefiro o Pentester, na busca por vulnerabilidades!
 
-<h4>🚀 Aprendendo com os erros e corrigindo-os, meu objetivo é colaborar o quanto puder para o desenvolvimento seguro da tecnologia!</h4><br>
+#### 🚀 Aprendendo com os erros e corrigindo-os, meu objetivo é colaborar o quanto puder para o desenvolvimento seguro da tecnologia!<br>
 
 <!-- REDES PARA CONTATO -->
 
