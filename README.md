@@ -26,7 +26,7 @@
 
 ### TECNOLOGIAS EM ESTUDO
 
-<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,linux,py,php"/></a></p>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,py,bash,django"/></a></p>
 <hr>
 
 ### OUTROS STATUS
@@ -37,11 +37,11 @@
 <a href="https://github.com/hi-bernardo"><picture>
       		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hi-bernardo&custom_title=MY%20STATUS&border_radius=9.0&title_color=7957d5&icon_color=ff3860&text_color=363636&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
       		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hi-bernardo&custom_title=MY%20STATUS&border_radius=9.0&title_color=7957d5&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-      		<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hi-bernardo&border_radius=9.0&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"height="180"/></picture></a>
+      		<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hi-bernardo&border_radius=9.0&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"height="195"/></picture></a>
 <a href="https://github.com/hi-bernardo"><picture>
 		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-bernardo&custom_title=Languages%20used&border_radius=9.0&title_color=7957d5&icon_color=ff3860&text_color=363636&layout=compact&langs_count=7&theme=swift">
 		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-bernardo&custom_title=Languagens%20used&border_radius=9.0&title_color=7957d5&layout=compact&langs_count=7&theme=codeSTACKr">
-		<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-bernardo&border_radius=9.0&layout=compact&langs_count=7&theme=swift" height="180"></picture></a></div>
+		<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-bernardo&border_radius=9.0&layout=compact&langs_count=7&theme=swift" height="195"></picture></a></div>
 
 <!-- SNAKE COMM IT -->
 <div align="center">
