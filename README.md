@@ -30,7 +30,7 @@
 <hr>
 
 
-<!-- STATUS DO PERFIL 
+<!-- STATUS DO PERFIL -->
 ### OUTROS STATUS
 
 <div align="center">
@@ -42,9 +42,8 @@
 		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-bernardo&custom_title=Languages%20used&border_radius=9.0&title_color=7957d5&icon_color=ff3860&text_color=363636&layout=compact&langs_count=7&theme=swift">
 		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-bernardo&custom_title=Languagens%20used&border_radius=9.0&title_color=7957d5&layout=compact&langs_count=7&theme=codeSTACKr">
 		<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-bernardo&border_radius=9.0&layout=compact&langs_count=7&theme=swift" height="195"></picture></a></div>
--->
 
-<!-- SNAKE COMM IT
+<!-- SNAKE COMM IT -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hi-bernardo/hi-bernardo/output/github-contribution-grid-snake-dark.svg">
@@ -52,4 +51,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
--->
